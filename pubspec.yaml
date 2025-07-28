@@ -9,8 +9,6 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  custom_dialog_box:
-    path: ../custom_dialog_box
   flutter:
     sdk: flutter
 
