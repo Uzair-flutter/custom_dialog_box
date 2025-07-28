@@ -39,6 +39,7 @@ class CustomDialog extends StatelessWidget {
                   onPressed: onCancel,
                   style: ElevatedButton.styleFrom(backgroundColor: Colors.grey),
                   child: const Text("Cancel"),
+                  // This button will call the onCancel function when pressed
                 ),
                 ElevatedButton(
                   onPressed: onConfirm,

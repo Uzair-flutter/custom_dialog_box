@@ -1,7 +1,7 @@
 name: custom_dialog_box
 description: 'A customizable reusable dialog box for Flutter apps.'
 version: 0.0.1
-homepage:
+homepage: https://github.com/Uzair-flutter/custom_dialog_box
 
 environment:
   sdk: ^3.8.1
